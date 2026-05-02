@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pdfminer.six
+python-multipart
+python-dotenv
+requests
+sentence-transformers
